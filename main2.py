@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import sys, help, select
-from add import add
-from list import list
-
+import sys
+from folder import add, list, help, select
 
 if __name__ == '__main__':
     # Список .
